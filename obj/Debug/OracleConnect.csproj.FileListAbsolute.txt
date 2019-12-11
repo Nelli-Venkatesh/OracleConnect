@@ -1,0 +1,8 @@
+E:\STACK\R&D\C# Libraries\OracleConnect\bin\Debug\OracleConnect.dll.config
+E:\STACK\R&D\C# Libraries\OracleConnect\bin\Debug\OracleConnect.dll
+E:\STACK\R&D\C# Libraries\OracleConnect\bin\Debug\OracleConnect.pdb
+E:\STACK\R&D\C# Libraries\OracleConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\STACK\R&D\C# Libraries\OracleConnect\obj\Debug\OracleConnect.csproj.CoreCompileInputs.cache
+E:\STACK\R&D\C# Libraries\OracleConnect\obj\Debug\OracleConnect.csproj.CopyComplete
+E:\STACK\R&D\C# Libraries\OracleConnect\obj\Debug\OracleConnect.dll
+E:\STACK\R&D\C# Libraries\OracleConnect\obj\Debug\OracleConnect.pdb
