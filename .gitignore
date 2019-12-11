@@ -2,3 +2,7 @@
 # Ignore nuget Packages
 *.nupkg
 *.nuspec
+
+
+# Ignore png files
+*.png
