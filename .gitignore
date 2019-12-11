@@ -6,3 +6,6 @@
 
 # Ignore png files
 *.png
+
+# Ignore .vs files
+.vs
